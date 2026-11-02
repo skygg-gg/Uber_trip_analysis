@@ -179,3 +179,19 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large local datasets
+data/raw/
+*.zip
+
+# Private configurations
+.env
+.env.*

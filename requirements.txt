@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+plotly>=5.24
+scikit-learn
+ipython
+ipykernel
+jupyter
